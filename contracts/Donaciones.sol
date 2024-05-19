@@ -3,7 +3,6 @@ pragma solidity 0.8.17;
 
 /**
 @title Donaciones smart contract
-@author Leandro
 @notice Es un smart contract que recive donacion solo en ETHE
 */
 
